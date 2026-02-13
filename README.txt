@@ -1,8 +1,3 @@
-#############################Assignment 02 ###################################
-##############################################################################
-#############################Assignment 02 - Task 1###########################
-
-##############################################################################
 Description of Project:
 This project implements a command-line tool that performs Elliptic Curve Diffie-Hellman (ECDH) key exchange with key derivation functionality using libsodium. The program generates cryptographic key pairs , performs secure key exchange and derives encryption and MAC keys from the shared secret.
 
